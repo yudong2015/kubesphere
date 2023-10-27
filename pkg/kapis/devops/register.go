@@ -29,6 +29,7 @@ var devopsGroupVersions = []schema.GroupVersion{
 	{Group: "devops.kubesphere.io", Version: "v1alpha2"},
 	{Group: "devops.kubesphere.io", Version: "v1alpha3"},
 	{Group: "gitops.kubesphere.io", Version: "v1alpha1"},
+	{Group: "builder.kubesphere.io", Version: "v1alpha1"},
 	// TODO Add other group versions here, like cd.devops.kubesphere.io
 }
 
